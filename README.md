@@ -7,7 +7,8 @@ Must-read and awesome papers on Named Entity Recognition.
 - TENER: Adapting Transformer Encoder for Named Entity Recognition (CoRR 2019) [[paper]](https://arxiv.org/abs/1911.04474)
 
 ## Repositories & Toolkits
-- [**THUNLP/Bert2Tag**](https://github.com/thunlp/Bert2Tag) - Bert base sequence tagging on OpenKP
+- [THUNLP/Bert2Tag](https://github.com/thunlp/Bert2Tag) - Bert base sequence tagging on OpenKP
+- [lonePatient/BERT-NER-Pytorch](https://github.com/lonePatient/BERT-NER-Pytorch) - Chinese NER using BERT
 
 ## Datasets
-- [**OpenKP - MS MARCO DataSets**](http://www.msmarco.org/leaders.aspx)
+- [OpenKP](http://www.msmarco.org/leaders.aspx) - MS MARCO DataSets
