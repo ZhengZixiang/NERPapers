@@ -15,3 +15,6 @@ Must-read and awesome papers on Named Entity Recognition.
 
 ## Datasets
 - [OpenKP](http://www.msmarco.org/leaders.aspx) - MS MARCO DataSets
+
+## Blog Posts
+- [虎哥 / 手撕BiLSTM-CRF](https://zhuanlan.zhihu.com/p/97676647)
