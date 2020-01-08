@@ -2,6 +2,7 @@
 Must-read and awesome papers on Named Entity Recognition.
 
 ## Papers
+- Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data (ICML 2001) [[paper]](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1162&context=cis_papers) - ***CRF***
 - Hierarchically-Refined Label Attention Network for Sequence Labeling (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1422/)[[code]](https://github.com/Nealcly/BiLSTM-LAN) - ***LAN***
 - A Unified MRC Framework for Named Entity Recognition (CoRR 2019) [[paper]](https://arxiv.org/abs/1910.11476)
 - TENER: Adapting Transformer Encoder for Named Entity Recognition (CoRR 2019) [[paper]](https://arxiv.org/abs/1911.04474)
