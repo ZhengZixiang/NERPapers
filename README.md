@@ -8,6 +8,8 @@ Must-read and awesome papers on Named Entity Recognition.
 - TENER: Adapting Transformer Encoder for Named Entity Recognition (CoRR 2019) [[paper]](https://arxiv.org/abs/1911.04474)
 
 ## Repositories & Toolkits
+- [CLUEbenchmark/CLUENER2020](https://github.com/CLUEbenchmark/CLUENER2020) - Fine-grained NER for Chinese based on pretrianed language model
+  - **Related paper** CLUENER2020: Fine-grained Name Entity Recognition for Chinese (CoRR 2020) [[paper]](https://arxiv.org/abs/2001.04351)
 - [THUNLP/Bert2Tag](https://github.com/thunlp/Bert2Tag) - Bert base sequence tagging on OpenKP
 - [lonePatient/BERT-NER-Pytorch](https://github.com/lonePatient/BERT-NER-Pytorch) - Chinese NER using BERT
 - [lingluodlut/BioNER-Progress](https://github.com/lingluodlut/BioNER-Progress) - Tracking the progress in biomedical NER
