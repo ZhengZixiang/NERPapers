@@ -22,3 +22,4 @@ Must-read and awesome papers on Named Entity Recognition.
 ## Blog Posts
 - [虎哥 / 手撕BiLSTM-CRF](https://zhuanlan.zhihu.com/p/97676647)
 - [邱震宇 / 中文NER任务实验小结报告——深入模型实现细节](https://zhuanlan.zhihu.com/p/103779616)
+- [苏剑林 / 你的CRF层的学习率可能不够大](https://kexue.fm/archives/7196)
