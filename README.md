@@ -1,17 +1,18 @@
 # NERPapers
-Must-read and awesome papers on Named Entity Recognition.
+Worth-reading and awesome papers on Named Entity Recognition.
 
 ## Papers
-- Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data (ICML 2001) [[paper]](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1162&context=cis_papers) - ***CRF***
-- Hierarchically-Refined Label Attention Network for Sequence Labeling (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1422/)[[code]](https://github.com/Nealcly/BiLSTM-LAN) - ***LAN***
-- A Unified MRC Framework for Named Entity Recognition (CoRR 2019) [[paper]](https://arxiv.org/abs/1910.11476)
-- TENER: Adapting Transformer Encoder for Named Entity Recognition (CoRR 2019) [[paper]](https://arxiv.org/abs/1911.04474)
+- **Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data**. *John Lafferty, Andrew McCallum, Fernando C.N. Pereira*. (ICML 2001) [[paper]](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1162&context=cis_papers) - ***CRF***
+- **Hierarchically-Refined Label Attention Network for Sequence Labeling**. *Leyang Cui, Yue Zhang*. (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1422/)[[code]](https://github.com/Nealcly/BiLSTM-LAN) - ***LAN***
+- **A Unified MRC Framework for Named Entity Recognition**. *Xiaoya Li, Jingrong Feng, Yuxian Meng, Qinghong Han, Fei Wu, Jiwei Li*. (ACL 2019) [[paper]](https://arxiv.org/abs/1910.11476)
+- **TENER: Adapting Transformer Encoder for Named Entity Recognition**. *Hang Yan, Bocao Deng, Xiaonan Li, Xipeng Qiu*. (CoRR 2019) [[paper]](https://arxiv.org/abs/1911.04474)
 
 ## Repositories & Toolkits
 - [CLUEbenchmark / CLUENER2020](https://github.com/CLUEbenchmark/CLUENER2020) - Fine-grained NER for Chinese based on pretrianed language model
-  - **Related paper** CLUENER2020: Fine-grained Name Entity Recognition for Chinese (CoRR 2020) [[paper]](https://arxiv.org/abs/2001.04351)
+  - **CLUENER2020: Fine-grained Name Entity Recognition for Chinese**. *Liang Xu, Yu tong, Qianqian Dong, Yixuan Liao, Cong Yu, Yin Tian, Weitang Liu, Lu Li, Caiquan Liu, Xuanwei Zhang*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2001.04351)
+- [dsindex / ntagger](https://github.com/dsindex/ntagger) - reference pytorch code for named entity tagging
 - [jiesutd / NCRF++](https://github.com/jiesutd/NCRFpp) - An open-source neural sequence labeling toolkit
-  - **Related paper** NCRF++: An Open-source Neural Sequence Labeling Toolkit (ACL 2018) [[paper]](https://www.aclweb.org/anthology/P18-4013/)
+  - **NCRF++: An Open-source Neural Sequence Labeling Toolkit**. *Jie Yang, Yue Zhang*. (ACL 2018) [[paper]](https://www.aclweb.org/anthology/P18-4013/)
 - [lingluodlut / BioNER-Progress](https://github.com/lingluodlut/BioNER-Progress) - Tracking the progress in biomedical NER
 - [lonePatient/BERT-NER-Pytorch](https://github.com/lonePatient/BERT-NER-Pytorch) - Chinese NER using BERT
 - [loujie0822 / DeepIE](https://github.com/loujie0822/DeepIE) - Deep Learning for Information Extraction
