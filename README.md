@@ -1,6 +1,14 @@
 # NERPapers
 Worth-reading and awesome papers on Named Entity Recognition.
 
+Suggestions about adding papers, repositories and other resources are welcomed!
+
+*Since I am Chinese, I mainly focus on Chinese resources. Welcome to recommend excellent resources in English or other languages!*
+
+值得一读的命名实体识别相关资源集合。
+
+欢迎新增论文、代码仓库与其他资源等建议！
+
 ## Papers
 - **Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data**. *John Lafferty, Andrew McCallum, Fernando C.N. Pereira*. (ICML 2001) [[paper]](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1162&context=cis_papers) - ***CRF***
 - **Hierarchically-Refined Label Attention Network for Sequence Labeling**. *Leyang Cui, Yue Zhang*. (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1422/)[[code]](https://github.com/Nealcly/BiLSTM-LAN) - ***LAN***
@@ -16,8 +24,9 @@ Worth-reading and awesome papers on Named Entity Recognition.
 - [lingluodlut / BioNER-Progress](https://github.com/lingluodlut/BioNER-Progress) - Tracking the progress in biomedical NER
 - [lonePatient/BERT-NER-Pytorch](https://github.com/lonePatient/BERT-NER-Pytorch) - Chinese NER using BERT
 - [loujie0822 / DeepIE](https://github.com/loujie0822/DeepIE) - Deep Learning for Information Extraction
+- [scrapinghub / python-crfsuite](https://github.com/scrapinghub/python-crfsuite) - A python binding for crfsuite
+- [taku910 / CRF++](https://taku910.github.io/crfpp/) - A simple, customizable, and open source implementation of Conditional Random Fields (CRFs) for segmenting/labeling sequential data
 - [THUNLP / Bert2Tag](https://github.com/thunlp/Bert2Tag) - Bert base sequence tagging on OpenKP
-
 ## Datasets
 - [OpenKP](http://www.msmarco.org/leaders.aspx) - MS MARCO DataSets
 
