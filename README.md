@@ -34,6 +34,9 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 ## Blog Posts
 - [Elesdspline / 【ACL2020论文尝鲜】如何以低成本的数据构建高效NER模型 TriggerNER？](https://zhuanlan.zhihu.com/p/145974989)
 - [虎哥 / 手撕BiLSTM-CRF](https://zhuanlan.zhihu.com/p/97676647)
+- [Jay Lou / 中文NER的正确打开方式: 词汇增强方法总结 (从Lattice LSTM到FLAT)](https://zhuanlan.zhihu.com/p/142615620)
+- [Jay Lou / 工业界如何解决NER问题？12个trick，与你分享～](https://zhuanlan.zhihu.com/p/152463745)
+- [Jay Lou / 工业界求解NER问题的12条黄金法则](https://mp.weixin.qq.com/s/MQRrEIJaFToIVLbnuKQZnw)
 - [邱震宇 / 中文NER任务实验小结报告——深入模型实现细节](https://zhuanlan.zhihu.com/p/103779616)
 - [苏剑林 / 你的CRF层的学习率可能不够大](https://kexue.fm/archives/7196)
 - [张成蹊 / 浅谈嵌套命名实体识别（Nested NER）](https://mp.weixin.qq.com/s/iB-gaxIygWLjS1mKwKUGog)
