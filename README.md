@@ -40,3 +40,4 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 - [邱震宇 / 中文NER任务实验小结报告——深入模型实现细节](https://zhuanlan.zhihu.com/p/103779616)
 - [苏剑林 / 你的CRF层的学习率可能不够大](https://kexue.fm/archives/7196)
 - [张成蹊 / 浅谈嵌套命名实体识别（Nested NER）](https://mp.weixin.qq.com/s/iB-gaxIygWLjS1mKwKUGog)
+- [美团 / 美团搜索中NER技术的探索与实践](https://tech.meituan.com/2020/07/23/ner-in-meituan-nlp.html)
