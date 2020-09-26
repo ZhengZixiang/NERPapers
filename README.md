@@ -15,6 +15,7 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 - **A Unified MRC Framework for Named Entity Recognition**. *Xiaoya Li, Jingrong Feng, Yuxian Meng, Qinghong Han, Fei Wu, Jiwei Li*. (ACL 2019) [[paper]](https://arxiv.org/abs/1910.11476)
 - **TENER: Adapting Transformer Encoder for Named Entity Recognition**. *Hang Yan, Bocao Deng, Xiaonan Li, Xipeng Qiu*. (CoRR 2019) [[paper]](https://arxiv.org/abs/1911.04474)
 - **TriggerNER: Learning with Entity Triggers as Explanations for Named Entity Recognition**. *Bill Yuchen Lin, Dong-Ho Lee, Ming Shen, Ryan Moreno, Xiao Huang, Prashant Shiralkar, Xiang Ren*. (ACL 2020) [[paper]](https://arxiv.org/abs/2004.07493)[[code]](https://github.com/INK-USC/TriggerNER)
+- **FLAT: Chinese NER Using Flat-Lattice Transformer**. *Xiaonan Li, Hang Yan, Xipeng Qiu, Xuanjing Huang*. (ACL 2020) [[paper]](https://arxiv.org/abs/2004.11795)[[code]](https://github.com/LeeSureman/Flat-Lattice-Transformer)
 
 ## Repositories & Toolkits
 - [CLUEbenchmark / CLUENER2020](https://github.com/CLUEbenchmark/CLUENER2020) - Fine-grained NER for Chinese based on pretrianed language model
