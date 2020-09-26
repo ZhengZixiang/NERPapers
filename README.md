@@ -11,11 +11,13 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 
 ## Papers
 - **Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data**. *John Lafferty, Andrew McCallum, Fernando C.N. Pereira*. (ICML 2001) [[paper]](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1162&context=cis_papers) - ***CRF***
+- **Chinese NER Using Lattice LSTM**. *Yue Zhang, Jie Yang*. (ACL 2018) [[paper]](https://arxiv.org/abs/1805.02023)
 - **Hierarchically-Refined Label Attention Network for Sequence Labeling**. *Leyang Cui, Yue Zhang*. (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1422/)[[code]](https://github.com/Nealcly/BiLSTM-LAN) - ***LAN***
 - **A Unified MRC Framework for Named Entity Recognition**. *Xiaoya Li, Jingrong Feng, Yuxian Meng, Qinghong Han, Fei Wu, Jiwei Li*. (ACL 2019) [[paper]](https://arxiv.org/abs/1910.11476)
 - **TENER: Adapting Transformer Encoder for Named Entity Recognition**. *Hang Yan, Bocao Deng, Xiaonan Li, Xipeng Qiu*. (CoRR 2019) [[paper]](https://arxiv.org/abs/1911.04474)
 - **TriggerNER: Learning with Entity Triggers as Explanations for Named Entity Recognition**. *Bill Yuchen Lin, Dong-Ho Lee, Ming Shen, Ryan Moreno, Xiao Huang, Prashant Shiralkar, Xiang Ren*. (ACL 2020) [[paper]](https://arxiv.org/abs/2004.07493)[[code]](https://github.com/INK-USC/TriggerNER)
 - **FLAT: Chinese NER Using Flat-Lattice Transformer**. *Xiaonan Li, Hang Yan, Xipeng Qiu, Xuanjing Huang*. (ACL 2020) [[paper]](https://arxiv.org/abs/2004.11795)[[code]](https://github.com/LeeSureman/Flat-Lattice-Transformer)
+- **Simplify the Usage of Lexicon in Chinese NER**. *Ruotian Ma, Minlong Peng, Qi Zhang, Zhongyu Wei, Xuanjing Huang*. [[paper]](https://www.aclweb.org/anthology/2020.acl-main.528/)[[code]](https://github.com/v-mipeng/LexiconAugmentedNER)
 
 ## Repositories & Toolkits
 - [CLUEbenchmark / CLUENER2020](https://github.com/CLUEbenchmark/CLUENER2020) - Fine-grained NER for Chinese based on pretrianed language model
@@ -38,7 +40,8 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 - [Jay Lou / 中文NER的正确打开方式: 词汇增强方法总结 (从Lattice LSTM到FLAT)](https://zhuanlan.zhihu.com/p/142615620)
 - [Jay Lou / 工业界如何解决NER问题？12个trick，与你分享～](https://zhuanlan.zhihu.com/p/152463745)
 - [Jay Lou / 工业界求解NER问题的12条黄金法则](https://mp.weixin.qq.com/s/MQRrEIJaFToIVLbnuKQZnw)
+- [美团 / 美团搜索中NER技术的探索与实践](https://tech.meituan.com/2020/07/23/ner-in-meituan-nlp.html)
 - [邱震宇 / 中文NER任务实验小结报告——深入模型实现细节](https://zhuanlan.zhihu.com/p/103779616)
 - [苏剑林 / 你的CRF层的学习率可能不够大](https://kexue.fm/archives/7196)
+- [王岳王院长 / 流水的NLP铁打的NER：命名实体识别实践与探索](https://zhuanlan.zhihu.com/p/166496466)
 - [张成蹊 / 浅谈嵌套命名实体识别（Nested NER）](https://mp.weixin.qq.com/s/iB-gaxIygWLjS1mKwKUGog)
-- [美团 / 美团搜索中NER技术的探索与实践](https://tech.meituan.com/2020/07/23/ner-in-meituan-nlp.html)
