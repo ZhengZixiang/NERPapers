@@ -40,6 +40,7 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 - [Jay Lou / 中文NER的正确打开方式: 词汇增强方法总结 (从Lattice LSTM到FLAT)](https://zhuanlan.zhihu.com/p/142615620)
 - [Jay Lou / 工业界如何解决NER问题？12个trick，与你分享～](https://zhuanlan.zhihu.com/p/152463745)
 - [Jay Lou / 工业界求解NER问题的12条黄金法则](https://mp.weixin.qq.com/s/MQRrEIJaFToIVLbnuKQZnw)
+- [Jay Lou / 陈丹琦“简单到令人沮丧”的屠榜之作：关系抽取新SOTA！](https://mp.weixin.qq.com/s/xwljKL3FjY-Nw-Zll4x3pQ)
 - [美团 / 美团搜索中NER技术的探索与实践](https://tech.meituan.com/2020/07/23/ner-in-meituan-nlp.html)
 - [邱震宇 / 中文NER任务实验小结报告——深入模型实现细节](https://zhuanlan.zhihu.com/p/103779616)
 - [苏剑林 / 你的CRF层的学习率可能不够大](https://kexue.fm/archives/7196)
