@@ -18,6 +18,7 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 - **TriggerNER: Learning with Entity Triggers as Explanations for Named Entity Recognition**. *Bill Yuchen Lin, Dong-Ho Lee, Ming Shen, Ryan Moreno, Xiao Huang, Prashant Shiralkar, Xiang Ren*. (ACL 2020) [[paper]](https://arxiv.org/abs/2004.07493)[[code]](https://github.com/INK-USC/TriggerNER)
 - **FLAT: Chinese NER Using Flat-Lattice Transformer**. *Xiaonan Li, Hang Yan, Xipeng Qiu, Xuanjing Huang*. (ACL 2020) [[paper]](https://arxiv.org/abs/2004.11795)[[code]](https://github.com/LeeSureman/Flat-Lattice-Transformer)
 - **Simplify the Usage of Lexicon in Chinese NER**. *Ruotian Ma, Minlong Peng, Qi Zhang, Zhongyu Wei, Xuanjing Huang*. [[paper]](https://www.aclweb.org/anthology/2020.acl-main.528/)[[code]](https://github.com/v-mipeng/LexiconAugmentedNER)
+- **A Novel Cascade Binary Tagging Framework for Relational Triple Extraction**. *Zhepei Wei, Jianlin Su, Yue Wang, Yuan Tian, Yi Chang*. (ACL 2020) [[paper]]()[[code]](https://github.com/weizhepei/CasRel) - ***CasRel***
 
 ## Repositories & Toolkits
 - [CLUEbenchmark / CLUENER2020](https://github.com/CLUEbenchmark/CLUENER2020) - Fine-grained NER for Chinese based on pretrianed language model
@@ -29,8 +30,11 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 - [lonePatient/BERT-NER-Pytorch](https://github.com/lonePatient/BERT-NER-Pytorch) - Chinese NER using BERT
 - [loujie0822 / DeepIE](https://github.com/loujie0822/DeepIE) - Deep Learning for Information Extraction
 - [scrapinghub / python-crfsuite](https://github.com/scrapinghub/python-crfsuite) - A python binding for crfsuite
+- [ShulinCao / OpenNRE-PyTorch](https://github.com/ShulinCao/OpenNRE-PyTorch) - 上一项目的PyTorch版本
 - [taku910 / CRF++](https://taku910.github.io/crfpp/) - A simple, customizable, and open source implementation of Conditional Random Fields (CRFs) for segmenting/labeling sequential data
 - [THUNLP / Bert2Tag](https://github.com/thunlp/Bert2Tag) - Bert base sequence tagging on OpenKP
+- [THUNLP / OpenNRE](https://github.com/thunlp/OpenNRE) - 清华开源的关系抽取框架（原基于TensorFlow，2.0版本已迁移到PyTorch）
+
 ## Datasets
 - [OpenKP](http://www.msmarco.org/leaders.aspx) - MS MARCO DataSets
 
