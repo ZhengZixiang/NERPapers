@@ -29,6 +29,7 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 - [lingluodlut / BioNER-Progress](https://github.com/lingluodlut/BioNER-Progress) - Tracking the progress in biomedical NER
 - [lonePatient/BERT-NER-Pytorch](https://github.com/lonePatient/BERT-NER-Pytorch) - Chinese NER using BERT
 - [loujie0822 / DeepIE](https://github.com/loujie0822/DeepIE) - Deep Learning for Information Extraction
+- [percent4 / people_relation_extract](https://github.com/percent4/people_relation_extract) - 结合BERT+GRU+ATT模型，对自己收集的人物关系数据进行模型训练，用于人物关系抽取
 - [scrapinghub / python-crfsuite](https://github.com/scrapinghub/python-crfsuite) - A python binding for crfsuite
 - [ShulinCao / OpenNRE-PyTorch](https://github.com/ShulinCao/OpenNRE-PyTorch) - 上一项目的PyTorch版本
 - [taku910 / CRF++](https://taku910.github.io/crfpp/) - A simple, customizable, and open source implementation of Conditional Random Fields (CRFs) for segmenting/labeling sequential data
