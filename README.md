@@ -20,6 +20,9 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 - **Simplify the Usage of Lexicon in Chinese NER**. *Ruotian Ma, Minlong Peng, Qi Zhang, Zhongyu Wei, Xuanjing Huang*. [[paper]](https://www.aclweb.org/anthology/2020.acl-main.528/)[[code]](https://github.com/v-mipeng/LexiconAugmentedNER)
 - **A Novel Cascade Binary Tagging Framework for Relational Triple Extraction**. *Zhepei Wei, Jianlin Su, Yue Wang, Yuan Tian, Yi Chang*. (ACL 2020) [[paper]]()[[code]](https://github.com/weizhepei/CasRel) - ***CasRel***
 
+## Survay & Tutorial
+- **Few-Shot Named Entity Recognition: A Comprehensive Study**. *Jiaxin Huang, Chunyuan Li, Krishan Subudhi, Damien Jose, Shobana Balakrishnan, Weizhu Chen, Baolin Peng, Jianfeng Gao, Jiawei Han*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2012.14978)
+
 ## Repositories & Toolkits
 - [CLUEbenchmark / CLUENER2020](https://github.com/CLUEbenchmark/CLUENER2020) - Fine-grained NER for Chinese based on pretrianed language model
   - **CLUENER2020: Fine-grained Name Entity Recognition for Chinese**. *Liang Xu, Yu tong, Qianqian Dong, Yixuan Liao, Cong Yu, Yin Tian, Weitang Liu, Lu Li, Caiquan Liu, Xuanwei Zhang*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2001.04351)
