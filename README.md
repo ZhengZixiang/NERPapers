@@ -19,6 +19,7 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 - **FLAT: Chinese NER Using Flat-Lattice Transformer**. *Xiaonan Li, Hang Yan, Xipeng Qiu, Xuanjing Huang*. (ACL 2020) [[paper]](https://arxiv.org/abs/2004.11795)[[code]](https://github.com/LeeSureman/Flat-Lattice-Transformer)
 - **Simplify the Usage of Lexicon in Chinese NER**. *Ruotian Ma, Minlong Peng, Qi Zhang, Zhongyu Wei, Xuanjing Huang*. [[paper]](https://www.aclweb.org/anthology/2020.acl-main.528/)[[code]](https://github.com/v-mipeng/LexiconAugmentedNER)
 - **A Novel Cascade Binary Tagging Framework for Relational Triple Extraction**. *Zhepei Wei, Jianlin Su, Yue Wang, Yuan Tian, Yi Chang*. (ACL 2020) [[paper]]()[[code]](https://github.com/weizhepei/CasRel) - ***CasRel***
+- **Lex-BERT: Enhancing BERT based NER with lexicons**. *Wei Zhu, Daniel Cheung*. (ICLR 2021) [[paper]](https://arxiv.org/abs/2101.00396)
 
 ## Survay & Tutorial
 - **Few-Shot Named Entity Recognition: A Comprehensive Study**. *Jiaxin Huang, Chunyuan Li, Krishan Subudhi, Damien Jose, Shobana Balakrishnan, Weizhu Chen, Baolin Peng, Jianfeng Gao, Jiawei Han*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2012.14978)
@@ -37,7 +38,7 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 - [ShulinCao / OpenNRE-PyTorch](https://github.com/ShulinCao/OpenNRE-PyTorch) - 上一项目的PyTorch版本
 - [taku910 / CRF++](https://taku910.github.io/crfpp/) - A simple, customizable, and open source implementation of Conditional Random Fields (CRFs) for segmenting/labeling sequential data
 - [THUNLP / Bert2Tag](https://github.com/thunlp/Bert2Tag) - Bert base sequence tagging on OpenKP
-- [THUNLP / OpenNRE](https://github.com/thunlp/OpenNRE) - 清华开源的关系抽取框架（原基于TensorFlow，2.0版本已迁移到PyTorch）
+- [THUNLP / OpenNRE](https://github.com/thunlp/OpenNRE)
 
 ## Datasets
 - [OpenKP](http://www.msmarco.org/leaders.aspx) - MS MARCO DataSets
@@ -49,6 +50,8 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 - [Jay Lou / 工业界如何解决NER问题？12个trick，与你分享～](https://zhuanlan.zhihu.com/p/152463745)
 - [Jay Lou / 工业界求解NER问题的12条黄金法则](https://mp.weixin.qq.com/s/MQRrEIJaFToIVLbnuKQZnw)
 - [Jay Lou / 陈丹琦“简单到令人沮丧”的屠榜之作：关系抽取新SOTA！](https://mp.weixin.qq.com/s/xwljKL3FjY-Nw-Zll4x3pQ)
+- [Jay Lou / 打开你的脑洞：NER如何进行数据增强 ？](https://mp.weixin.qq.com/s/JfqH3Bsw1JeL6Eqt03r2Og)
+- [Jay Lou / Lex-BERT：超越FLAT的中文NER模型？](https://mp.weixin.qq.com/s/zsNpZ7M6C4pUOhWg1Bdf3A)
 - [美团 / 美团搜索中NER技术的探索与实践](https://tech.meituan.com/2020/07/23/ner-in-meituan-nlp.html)
 - [邱震宇 / 中文NER任务实验小结报告——深入模型实现细节](https://zhuanlan.zhihu.com/p/103779616)
 - [苏剑林 / 你的CRF层的学习率可能不够大](https://kexue.fm/archives/7196)
