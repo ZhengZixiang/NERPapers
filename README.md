@@ -57,3 +57,4 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 - [苏剑林 / 你的CRF层的学习率可能不够大](https://kexue.fm/archives/7196)
 - [王岳王院长 / 流水的NLP铁打的NER：命名实体识别实践与探索](https://zhuanlan.zhihu.com/p/166496466)
 - [张成蹊 / 浅谈嵌套命名实体识别（Nested NER）](https://mp.weixin.qq.com/s/iB-gaxIygWLjS1mKwKUGog)
+- [AI自然语言处理与知识图谱 Elesdspline / 综述：关系抽取，挑战与机遇并存！](https://mp.weixin.qq.com/s/6_hBsjXjC6EyKHrxbfsf_Q)
